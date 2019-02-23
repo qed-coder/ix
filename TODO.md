@@ -5,4 +5,7 @@
 -   [x] Learn to make checkboxes in markdown
 -   [x] Check that waka time is working in vscode
 -   [ ] Make an ix jrnl entry
-- [ ] Try writing things in org mode
+-   [ ] Try writing things in org mode
+-   [ ] Check to make sure waka time is working in emacs.
+-   [ ] Learn to send REPL output to a file.
+-   [ ] Learn about the REPL command Menu

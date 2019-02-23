@@ -27,7 +27,10 @@ It's the secret sausce[^1] that will make you a better programmer and worker.
 > Don't be afraid to refactor.
 
 Refactoring is not the enemy. It's actually your best friend. It is what let's you learn. It's the way you get better.
-The flip side of this is that in t.
+
+
+You are going to need to setup your workspace.
+
 
 ## Installation
 
